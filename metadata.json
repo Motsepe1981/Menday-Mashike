@@ -1,0 +1,6 @@
+{
+  "name": "Activity Hub - Investor Business Plan Studio",
+  "description": "Standardized business plan studio with investor-grade financial data, compact graphs, fillable organograms, whitespace-optimized formatting, and automated missing financial data verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
